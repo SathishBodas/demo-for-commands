@@ -1,0 +1,6 @@
+git init
+touch names.txt
+vi names.txt
+git add .
+git status
+git log
